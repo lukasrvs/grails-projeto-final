@@ -1,0 +1,1 @@
+<g:render controller="auth" action="login" />
